@@ -75,14 +75,14 @@
 
     <TextView
         android:id="@+id/output"
-        android:layout_width="329dp"
-        android:layout_height="430dp"
-        android:layout_marginTop="248dp"
+        android:layout_width="307dp"
+        android:layout_height="365dp"
+        android:layout_marginTop="336dp"
         android:background="#D8BDEA"
         android:gravity="center"
         android:hint="Картотека"
-        android:textColorHint="#7FBDC6"
         android:textColor="#BE5DD5"
+        android:textColorHint="#142527"
         android:textSize="17sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.439"
